@@ -1,3 +1,4 @@
+#SERVER SETUP
 import socket
 
 def start_server():
@@ -29,3 +30,36 @@ def start_server():
 
 if __name__ == "__main__":
     start_server()
+
+
+
+
+# CLIENT SETUP
+import socket
+
+def create_socket_connection():
+    # Create a socket object
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+    # Define the host and the port
+    host = 'localhost'
+    port = 11111
+
+    try:
+        # Connect to the server
+        s.connect((host, port))
+        print(f"Connected to {host} on port {port}")
+
+         # Send a test message to the server
+        message = "Hello, Server!"
+        s.sendall(message.encode('utf-8'))
+        print(f"Sent message: {message}")
+        
+    except socket.error as e:
+        print(f"Error connecting to {host} on port {port}: {e}")
+    finally:
+        # Close the socket
+        s.close()
+
+if __name__ == "__main__":
+    create_socket_connection()
