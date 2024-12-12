@@ -109,6 +109,6 @@ A project to streamline the Security Content Automation Protocol (SCAP) assessme
 
 ## Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/kelly-glover-55431021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelly-glover-55431021b" height="30" width="40" /></a>
 </p>
