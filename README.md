@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <h3><a href="https://github.com/your-repo-link-3">SCAP Manual Question Automation</a></h3>
+      <h3><a href="https://github.com/your-repo-link-3">Automation of SCAP Manual Questions</a></h3>
       <p>A project to streamline the Security Content Automation Protocol (SCAP) assessment process by automating the handling of manual questionnaires. This tool enhances compliance and efficiency in cybersecurity audits. 
       <br><strong>Tech Used:</strong> Python, Automation, Cybersecurity</p>
     </td>
