@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelly Glover</h1>
 <h3 align="center">A passionate Cyber Security Expert who likes to dabble in security automation</h3>
+<h3 align="center">Here you will find my school and hobby projects</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
