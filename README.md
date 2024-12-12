@@ -4,7 +4,7 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<p align="center">Here are some of the projects I’m most proud of:</p>
+<p align="center">Here are some of the projects I’ve worked on:</p>
 
 <table align="center">
   <tr>
